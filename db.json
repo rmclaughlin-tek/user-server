@@ -1,0 +1,19 @@
+{
+  "mamui_users": [
+    {
+      "id": 1,
+      "user_name": "Ryan McLaughlin",
+      "group_id": 1
+    },
+    {
+      "id": 2,
+      "user_name": "John Doe",
+      "group_id": 3
+    },
+    {
+      "id": 3,
+      "user_name": "Ben Benjamin",
+      "group_id": 2
+    }
+  ]
+}
